@@ -3,7 +3,7 @@ Some Basic Python
 
 Source material www.w3schools.com,  https://www.geeksforgeeks.org/
 
-I think the most import was https://docs.python.org/3/
+I think the most important was https://docs.python.org/3/
 
 Without a good foundation and understanding how to read documention it makes learning any language difficult but once you get them down it all becomes easier to work with.
 
